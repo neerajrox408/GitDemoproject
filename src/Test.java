@@ -2,8 +2,8 @@
 public class Test {
 
 	public static void main(String[] args) {
-String name="neeraj";
-if(name=="neeraj")
+String name="neerajag";
+if(name=="neerajag")
 {
 	System.out.println("name is true");
 }
